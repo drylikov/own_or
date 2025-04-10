@@ -1,0 +1,19 @@
+{
+  "name": "own_or",
+  "version": "1.0.0",
+  "description": "Either use the object's own property, or a fallback",
+  "main": "own_or.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drylikov/own_or.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drylikov/own_or/issues"
+  },
+  "homepage": "https://github.com/drylikov/own_or#readme"
+}
